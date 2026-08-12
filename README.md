@@ -73,27 +73,13 @@ The portal provides dedicated interfaces for students and teachers to monitor ac
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=muhammadkumail317&show_icons=true&hide_border=true&count_private=true"
-    alt="Muhammad Kumail Noor GitHub Stats"
-  />
-</p>
+You can explore my projects, repositories, and development activity on GitHub.
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkumail317&layout=compact&hide_border=true"
-    alt="Top Languages"
-  />
+  <a href="https://github.com/muhammadkumail317">
+    <img src="https://img.shields.io/badge/GitHub-muhammadkumail317-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+  </a>
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadkumail317&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
 ## 🎓 Education
 
 **BS Computer Science**
