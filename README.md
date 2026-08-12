@@ -33,32 +33,43 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- ## 🚀 Featured Project
+## 🚀 Featured Project
 
 ### 📊 Student Performance Analytics Portal
 
 A modern, responsive web-based academic management and analytics portal developed as an internship project.
 
-**Technologies:**
+The portal provides dedicated interfaces for students and teachers to monitor academic performance, attendance, assignments, courses, reports, and analytics.
 
-HTML5 • CSS3 • JavaScript • Bootstrap • Chart.js
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muhammadkumail317/student-performance-analytics-portal/main/images/screenshots/student-dashboard.PNG"
+       alt="Student Performance Analytics Portal Dashboard"
+       width="900">
+</p>
 
-**Key Areas:**
+#### ✨ Highlights
 
-- Student Dashboard
-- Teacher Dashboard
-- Profile Management
-- Performance Reports
-- Analytics & Charts
-- Authentication Interfaces
-- Notifications
-- Light/Dark Theme
-- Responsive Design
+- 👨‍🎓 Student Dashboard
+- 👨‍🏫 Teacher Dashboard
+- 👤 Profile Management
+- 📊 Performance Reports
+- 📈 Interactive Analytics & Charts
+- 🔐 Authentication Interfaces
+- 🔔 Notification System
+- 🌙 Light & Dark Theme
+- 📱 Responsive Design
+- 📄 CSV & PDF Report Export
+- 🖨️ Print Reports
 
-🔗 **[View Repository](https://github.com/muhammadkumail317/student-performance-analytics-portal)**
+#### 🛠️ Technologies
 
-🌐 **[Live Demo](https://muhammadkumail317.github.io/student-performance-analytics-portal/)**
+`HTML5` `CSS3` `JavaScript` `Bootstrap` `Chart.js`
 
+#### 🔗 Project Links
+
+[📂 View Repository](https://github.com/muhammadkumail317/student-performance-analytics-portal)
+
+[🌐 Live Demo](https://muhammadkumail317.github.io/student-performance-analytics-portal/)
 ## 🎓 Education
 
 **BS Computer Science**
