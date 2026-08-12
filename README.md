@@ -82,20 +82,31 @@ You can explore my projects, repositories, and development activity on GitHub.
 </p>
 ## 🎓 Education
 
-**BS Computer Science**
+### BS Computer Science
 
-Abdul Wali Khan University Mardan
+**Abdul Wali Khan University Mardan**
 
-- 📚 6th Semester
+- 📚 Currently in 7th Semester
 - 🎓 Expected Graduation: 2027
+- 💻 Academic Focus: Computer Science and Web Development- ##
+-## 🎯 Career Goal
 
-- ## 🎯 Career Goal
+My goal is to grow as a professional web developer by working on real-world projects, gaining practical experience, and continuously improving my technical skills.
 
-My goal is to grow as a professional web developer by working on real-world projects, gaining practical experience, and continuously improving my development skills.
+I am particularly interested in building modern, responsive, and user-friendly web applications while learning new technologies and professional development practices.
 
 I am particularly interested in building modern and responsive web applications while learning new technologies and development practices.
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: [Muhammad Kumail Noor](www.linkedin.com/in/muhammad-kumail-noor)
-- 💻 GitHub: [muhammadkumail317](https://github.com/muhammadkumail317)
+<p align="center">
+
+  <a href="https://github.com/muhammadkumail317">
+    <img src="https://img.shields.io/badge/GitHub-muhammadkumail317-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+
+  <a href="www.linkedin.com/in/muhammad-kumail-noor">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Kumail%20Noor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+</p>
