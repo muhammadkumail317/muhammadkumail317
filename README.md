@@ -46,7 +46,13 @@ The portal provides dedicated interfaces for students and teachers to monitor ac
        alt="Student Performance Analytics Portal Dashboard"
        width="900">
 </p>
+<p align="center">
 
+  🌐 <a href="https://muhammadkumail317.github.io/student-performance-analytics-portal/">
+    <strong>View My Live Project</strong>
+  </a>
+
+</p>
 #### ✨ Highlights
 
 - 👨‍🎓 Student Dashboard
@@ -105,7 +111,7 @@ I am particularly interested in building modern and responsive web applications 
     <img src="https://img.shields.io/badge/GitHub-muhammadkumail317-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 
-  <a href="www.linkedin.com/in/muhammad-kumail-noor">
+  <a href="https://www.linkedin.com/in/muhammad-kumail-noor/">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Kumail%20Noor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
