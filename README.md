@@ -8,14 +8,18 @@
   Passionate about building modern, responsive and user-friendly web applications.
 </p>
 
+---
+
 ## 👨‍💻 About Me
 
 - 🎓 BS Computer Science student at Abdul Wali Khan University Mardan
-- 📚 Currently studying in the 6th semester
+- 📚 Currently studying in the 7th semester
 - 🎯 Expected graduation: 2027
 - 💻 Interested in Web Development
 - 🚀 Building practical projects to strengthen my development skills
 - 📖 Continuously learning and improving my technical skills
+
+---
 
 ## 🛠️ Skills & Technologies
 
@@ -33,6 +37,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
+
 ## 🚀 Featured Project
 
 ### 📊 Student Performance Analytics Portal
@@ -42,18 +48,21 @@ A modern, responsive web-based academic management and analytics portal develope
 The portal provides dedicated interfaces for students and teachers to monitor academic performance, attendance, assignments, courses, reports, and analytics.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muhammadkumail317/student-performance-analytics-portal/main/images/screenshots/student-dashboard.PNG"
-       alt="Student Performance Analytics Portal Dashboard"
-       width="900">
+  <img
+    src="https://raw.githubusercontent.com/muhammadkumail317/student-performance-analytics-portal/main/images/screenshots/student-dashboard.PNG"
+    alt="Student Performance Analytics Portal Dashboard"
+    width="900"
+  >
 </p>
-<p align="center">
 
-  🌐 <a href="https://muhammadkumail317.github.io/student-performance-analytics-portal/">
+<p align="center">
+  🌐
+  <a href="https://muhammadkumail317.github.io/student-performance-analytics-portal/">
     <strong>View My Live Project</strong>
   </a>
-
 </p>
-#### ✨ Highlights
+
+### ✨ Highlights
 
 - 👨‍🎓 Student Dashboard
 - 👨‍🏫 Teacher Dashboard
@@ -67,15 +76,17 @@ The portal provides dedicated interfaces for students and teachers to monitor ac
 - 📄 CSV & PDF Report Export
 - 🖨️ Print Reports
 
-#### 🛠️ Technologies
+### 🛠️ Technologies
 
 `HTML5` `CSS3` `JavaScript` `Bootstrap` `Chart.js`
 
-#### 🔗 Project Links
+### 🔗 Project Links
 
 [📂 View Repository](https://github.com/muhammadkumail317/student-performance-analytics-portal)
 
 [🌐 Live Demo](https://muhammadkumail317.github.io/student-performance-analytics-portal/)
+
+---
 
 ## 📊 GitHub Activity
 
@@ -83,9 +94,15 @@ You can explore my projects, repositories, and development activity on GitHub.
 
 <p align="center">
   <a href="https://github.com/muhammadkumail317">
-    <img src="https://img.shields.io/badge/GitHub-muhammadkumail317-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+    <img
+      src="https://img.shields.io/badge/GitHub-muhammadkumail317-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub Profile"
+    >
   </a>
 </p>
+
+---
+
 ## 🎓 Education
 
 ### BS Computer Science
@@ -94,25 +111,34 @@ You can explore my projects, repositories, and development activity on GitHub.
 
 - 📚 Currently in 7th Semester
 - 🎓 Expected Graduation: 2027
-- 💻 Academic Focus: Computer Science and Web Development- ##
--## 🎯 Career Goal
+- 💻 Academic Focus: Computer Science and Web Development
+
+---
+
+## 🎯 Career Goal
 
 My goal is to grow as a professional web developer by working on real-world projects, gaining practical experience, and continuously improving my technical skills.
 
 I am particularly interested in building modern, responsive, and user-friendly web applications while learning new technologies and professional development practices.
 
-I am particularly interested in building modern and responsive web applications while learning new technologies and development practices.
+---
 
 ## 🔗 Connect With Me
 
 <p align="center">
 
   <a href="https://github.com/muhammadkumail317">
-    <img src="https://img.shields.io/badge/GitHub-muhammadkumail317-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img
+      src="https://img.shields.io/badge/GitHub-muhammadkumail317-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    >
   </a>
 
   <a href="https://www.linkedin.com/in/muhammad-kumail-noor/">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Kumail%20Noor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Muhammad%20Kumail%20Noor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    >
   </a>
 
 </p>
