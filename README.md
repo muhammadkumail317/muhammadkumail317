@@ -70,6 +70,30 @@ The portal provides dedicated interfaces for students and teachers to monitor ac
 [📂 View Repository](https://github.com/muhammadkumail317/student-performance-analytics-portal)
 
 [🌐 Live Demo](https://muhammadkumail317.github.io/student-performance-analytics-portal/)
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=muhammadkumail317&show_icons=true&hide_border=true&count_private=true"
+    alt="Muhammad Kumail Noor GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkumail317&layout=compact&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadkumail317&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
 ## 🎓 Education
 
 **BS Computer Science**
