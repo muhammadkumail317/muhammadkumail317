@@ -1,10 +1,12 @@
-# 👋 Hi, I'm Muhammad Kumail Noor
+<h1 align="center">👋 Hi, I'm Muhammad Kumail Noor</h1>
 
-### 💻 BS Computer Science Student | Web Developer
+<h3 align="center">
+  💻 BS Computer Science Student | 🌐 Web Developer
+</h3>
 
-I'm a Computer Science student passionate about web development and building modern, responsive, and user-friendly web applications.
-
-I enjoy turning ideas into practical projects while continuously improving my frontend development and programming skills.
+<p align="center">
+  Passionate about building modern, responsive and user-friendly web applications.
+</p>
 
 ## 👨‍💻 About Me
 
@@ -15,23 +17,21 @@ I enjoy turning ideas into practical projects while continuously improving my fr
 - 🚀 Building practical projects to strengthen my development skills
 - 📖 Continuously learning and improving my technical skills
 
-- ## 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
 
 ### Frontend Development
 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- React
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Tools & Technologies
+### Tools
 
-- Git
-- GitHub
-- Visual Studio Code
-- Chart.js
-- Browser Local Storage
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 - ## 🚀 Featured Project
 
