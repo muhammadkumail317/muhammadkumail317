@@ -110,3 +110,13 @@ I am particularly interested in building modern and responsive web applications 
   </a>
 
 </p>
+
+---
+
+<p align="center">
+  💻 Building. Learning. Improving. 🚀
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my GitHub profile!</i>
+</p>
