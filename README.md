@@ -292,25 +292,47 @@ I am particularly interested in building **modern, responsive, and user-friendly
 ## 🔗 Connect With Me
 
 <p align="center">
+  <strong>Let's connect, collaborate, and build something meaningful.</strong>
+</p>
 
+<p align="center">
   <a href="https://github.com/muhammadkumail317">
-    <img src="https://img.shields.io/badge/GitHub-muhammadkumail317-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img
+      src="https://img.shields.io/badge/GitHub-muhammadkumail317-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    >
   </a>
 
   <a href="https://www.linkedin.com/in/muhammad-kumail-noor/">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Kumail%20Noor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Muhammad%20Kumail%20Noor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    >
   </a>
+</p>
 
+---
+
+## 🚀 Currently
+
+<p align="center">
+  💻 Building Web Projects
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  📚 Learning New Technologies
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  🎯 Preparing for Professional Opportunities
 </p>
 
 ---
 
 <p align="center">
-  💻 <strong>Building.</strong> &nbsp;
-  📚 <strong>Learning.</strong> &nbsp;
-  🚀 <strong>Improving.</strong>
+  <strong>💻 Building. Learning. Improving. 🚀</strong>
 </p>
 
 <p align="center">
   <i>Thanks for visiting my GitHub profile!</i>
+</p>
+
+<p align="center">
+  ⭐ Feel free to explore my repositories and projects.
 </p>
