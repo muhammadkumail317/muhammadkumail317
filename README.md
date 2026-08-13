@@ -72,6 +72,14 @@
 
 ## 🚀 Featured Project
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/muhammadkumail317/student-performance-analytics-portal/main/images/screenshots/student-dashboard.PNG"
+    alt="Student Performance Analytics Portal"
+    width="900"
+  >
+</p>
+
 <h3 align="center">
   📊 Student Performance Analytics Portal
 </h3>
@@ -87,44 +95,111 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/muhammadkumail317/student-performance-analytics-portal/main/images/screenshots/student-dashboard.PNG"
-    alt="Student Performance Analytics Portal Dashboard"
-    width="850"
-  >
-</p>
 
-<p align="center">
   <a href="https://muhammadkumail317.github.io/student-performance-analytics-portal/">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Project-4F46E5?style=for-the-badge" alt="Live Demo">
+    <img
+      src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Project-4F46E5?style=for-the-badge"
+      alt="Live Demo"
+    >
   </a>
 
   <a href="https://github.com/muhammadkumail317/student-performance-analytics-portal">
-    <img src="https://img.shields.io/badge/📂%20Repository-View%20Source-181717?style=for-the-badge" alt="Repository">
+    <img
+      src="https://img.shields.io/badge/📂%20Repository-View%20Source-181717?style=for-the-badge"
+      alt="Repository"
+    >
   </a>
-</p>
 
-### ✨ Highlights
-
-| Feature | Feature | Feature |
-|---|---|---|
-| 👨‍🎓 Student Dashboard | 👨‍🏫 Teacher Dashboard | 👤 Profile Management |
-| 📊 Performance Reports | 📈 Interactive Analytics | 🔐 Authentication |
-| 🔔 Notifications | 🌙 Light & Dark Theme | 📱 Responsive Design |
-| 📄 CSV & PDF Export | 🖨️ Print Reports | 📚 Academic Tracking |
-
-### 🛠️ Technologies
-
-<p>
-  <code>HTML5</code>
-  <code>CSS3</code>
-  <code>JavaScript</code>
-  <code>Bootstrap</code>
-  <code>Chart.js</code>
 </p>
 
 ---
 
+### ✨ Project Highlights
+
+<table align="center">
+  <tr>
+    <td align="center">👨‍🎓<br><strong>Student Dashboard</strong></td>
+    <td align="center">👨‍🏫<br><strong>Teacher Dashboard</strong></td>
+    <td align="center">👤<br><strong>Profile Management</strong></td>
+  </tr>
+  <tr>
+    <td align="center">📊<br><strong>Performance Reports</strong></td>
+    <td align="center">📈<br><strong>Analytics & Charts</strong></td>
+    <td align="center">🔐<br><strong>Authentication</strong></td>
+  </tr>
+  <tr>
+    <td align="center">🔔<br><strong>Notifications</strong></td>
+    <td align="center">🌙<br><strong>Theme Support</strong></td>
+    <td align="center">📱<br><strong>Responsive Design</strong></td>
+  </tr>
+  <tr>
+    <td align="center">📄<br><strong>CSV & PDF Export</strong></td>
+    <td align="center">🖨️<br><strong>Print Reports</strong></td>
+    <td align="center">📚<br><strong>Academic Tracking</strong></td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" alt="Chart.js">
+</p>
+
+---
+
+### 📸 Project Screenshots
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/muhammadkumail317/student-performance-analytics-portal/main/images/screenshots/home.PNG"
+    width="43%"
+    alt="Home Page"
+  >
+  <img
+    src="https://raw.githubusercontent.com/muhammadkumail317/student-performance-analytics-portal/main/images/screenshots/student-dashboard.PNG"
+    width="43%"
+    alt="Student Dashboard"
+  >
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/muhammadkumail317/student-performance-analytics-portal/main/images/screenshots/teacher-dashboard.PNG"
+    width="43%"
+    alt="Teacher Dashboard"
+  >
+  <img
+    src="https://raw.githubusercontent.com/muhammadkumail317/student-performance-analytics-portal/main/images/screenshots/report.PNG"
+    width="43%"
+    alt="Performance Reports"
+  >
+</p>
+
+---
+
+### 🔗 Project Links
+
+<p align="center">
+
+  <a href="https://github.com/muhammadkumail317/student-performance-analytics-portal">
+    📂 <strong>View Repository</strong>
+  </a>
+
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+
+  <a href="https://muhammadkumail317.github.io/student-performance-analytics-portal/">
+    🌐 <strong>Live Demo</strong>
+  </a>
+
+</p>
+
+---
 ## 📊 GitHub Activity
 
 <p align="center">
