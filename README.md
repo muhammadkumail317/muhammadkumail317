@@ -306,7 +306,6 @@ I am particularly interested in building **modern, responsive, and user-friendly
 </p>
 
 ---
----
 
 <p align="center">
   <strong>💻 Building. Learning. Improving. 🚀</strong>
