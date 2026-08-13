@@ -210,9 +210,11 @@
   >
 
   <p align="center">
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadkumail317&theme=tokyonight)
-
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadkumail317&theme=tokyonight"
+    width="48%"
+    alt="Top Languages"
+  >
 </p>
 </p>
 
