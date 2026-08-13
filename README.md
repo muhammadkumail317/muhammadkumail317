@@ -1,117 +1,164 @@
-<h1 align="center">👋 Hi, I'm Muhammad Kumail Noor</h1>
+<h1 align="center">
+  👋 Hi, I'm Muhammad Kumail Noor
+</h1>
 
 <h3 align="center">
-  💻 BS Computer Science Student | 🌐 Web Developer
+  💻 BS Computer Science Student &nbsp;|&nbsp; 🌐 Web Developer
 </h3>
 
 <p align="center">
-  Passionate about building modern, responsive and user-friendly web applications.
+  <strong>
+    Building modern, responsive and user-friendly web applications.
+  </strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/muhammadkumail317">
+    <img src="https://img.shields.io/badge/GitHub-muhammadkumail317-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-kumail-noor/">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Kumail%20Noor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 BS Computer Science student at Abdul Wali Khan University Mardan
-- 📚 Currently studying in the 7th semester
-- 🎯 Expected graduation: 2027
-- 💻 Interested in Web Development
+<table>
+<tr>
+<td width="55%">
+
+- 🎓 BS Computer Science student at **Abdul Wali Khan University Mardan**
+- 📚 Currently studying in the **7th semester**
+- 🎯 Expected graduation: **2027**
+- 💻 Interested in **Web Development**
 - 🚀 Building practical projects to strengthen my development skills
 - 📖 Continuously learning and improving my technical skills
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadkumail317&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" width="100%" alt="GitHub Stats">
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### Frontend Development
+### 🌐 Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+</p>
 
-### Tools
+### 🔧 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+</p>
 
 ---
 
 ## 🚀 Featured Project
 
-### 📊 Student Performance Analytics Portal
+<h3 align="center">
+  📊 Student Performance Analytics Portal
+</h3>
 
-A modern, responsive web-based academic management and analytics portal developed as an internship project.
+<p align="center">
+  <strong>Internship Project • Academic Management • Performance Analytics</strong>
+</p>
 
-The portal provides dedicated interfaces for students and teachers to monitor academic performance, attendance, assignments, courses, reports, and analytics.
+<p align="center">
+  A modern, responsive web-based academic management and analytics portal
+  designed to monitor student performance, attendance, assignments, courses,
+  reports and academic analytics.
+</p>
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/muhammadkumail317/student-performance-analytics-portal/main/images/screenshots/student-dashboard.PNG"
     alt="Student Performance Analytics Portal Dashboard"
-    width="900"
+    width="850"
   >
 </p>
 
 <p align="center">
-  🌐
   <a href="https://muhammadkumail317.github.io/student-performance-analytics-portal/">
-    <strong>View My Live Project</strong>
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Project-4F46E5?style=for-the-badge" alt="Live Demo">
+  </a>
+
+  <a href="https://github.com/muhammadkumail317/student-performance-analytics-portal">
+    <img src="https://img.shields.io/badge/📂%20Repository-View%20Source-181717?style=for-the-badge" alt="Repository">
   </a>
 </p>
 
 ### ✨ Highlights
 
-- 👨‍🎓 Student Dashboard
-- 👨‍🏫 Teacher Dashboard
-- 👤 Profile Management
-- 📊 Performance Reports
-- 📈 Interactive Analytics & Charts
-- 🔐 Authentication Interfaces
-- 🔔 Notification System
-- 🌙 Light & Dark Theme
-- 📱 Responsive Design
-- 📄 CSV & PDF Report Export
-- 🖨️ Print Reports
+| Feature | Feature | Feature |
+|---|---|---|
+| 👨‍🎓 Student Dashboard | 👨‍🏫 Teacher Dashboard | 👤 Profile Management |
+| 📊 Performance Reports | 📈 Interactive Analytics | 🔐 Authentication |
+| 🔔 Notifications | 🌙 Light & Dark Theme | 📱 Responsive Design |
+| 📄 CSV & PDF Export | 🖨️ Print Reports | 📚 Academic Tracking |
 
 ### 🛠️ Technologies
 
-`HTML5` `CSS3` `JavaScript` `Bootstrap` `Chart.js`
-
-### 🔗 Project Links
-
-[📂 View Repository](https://github.com/muhammadkumail317/student-performance-analytics-portal)
-
-[🌐 Live Demo](https://muhammadkumail317.github.io/student-performance-analytics-portal/)
+<p>
+  <code>HTML5</code>
+  <code>CSS3</code>
+  <code>JavaScript</code>
+  <code>Bootstrap</code>
+  <code>Chart.js</code>
+</p>
 
 ---
 
 ## 📊 GitHub Activity
 
-You can explore my projects, repositories, and development activity on GitHub.
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=muhammadkumail317&show_icons=true&hide_border=true&theme=tokyonight"
+    width="48%"
+    alt="GitHub Stats"
+  >
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkumail317&layout=compact&hide_border=true&theme=tokyonight"
+    width="42%"
+    alt="Top Languages"
+  >
+</p>
 
 <p align="center">
-  <a href="https://github.com/muhammadkumail317">
-    <img
-      src="https://img.shields.io/badge/GitHub-muhammadkumail317-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub Profile"
-    >
-  </a>
+  <img
+    src="https://streak-stats.demolab.com?user=muhammadkumail317&theme=tokyonight&hide_border=true"
+    width="70%"
+    alt="GitHub Streak"
+  >
 </p>
 
 ---
 
 ## 🎓 Education
 
-### BS Computer Science
+### 🎓 BS Computer Science
 
 **Abdul Wali Khan University Mardan**
 
-- 📚 Currently in 7th Semester
-- 🎓 Expected Graduation: 2027
-- 💻 Academic Focus: Computer Science and Web Development
+- 📚 Currently in **7th Semester**
+- 🎯 Expected Graduation: **2027**
+- 💻 Academic Focus: **Computer Science and Web Development**
 
 ---
 
@@ -128,17 +175,11 @@ I am particularly interested in building modern, responsive, and user-friendly w
 <p align="center">
 
   <a href="https://github.com/muhammadkumail317">
-    <img
-      src="https://img.shields.io/badge/GitHub-muhammadkumail317-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    >
+    <img src="https://img.shields.io/badge/GitHub-muhammadkumail317-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 
   <a href="https://www.linkedin.com/in/muhammad-kumail-noor/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Muhammad%20Kumail%20Noor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    >
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Kumail%20Noor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
 </p>
@@ -146,7 +187,9 @@ I am particularly interested in building modern, responsive, and user-friendly w
 ---
 
 <p align="center">
-  💻 Building. Learning. Improving. 🚀
+  💻 <strong>Building.</strong> &nbsp;
+  📚 <strong>Learning.</strong> &nbsp;
+  🚀 <strong>Improving.</strong>
 </p>
 
 <p align="center">
