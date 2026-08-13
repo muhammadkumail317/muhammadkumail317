@@ -200,13 +200,13 @@
 </p>
 
 ---
-## 📊 GitHub Activity
+## 📊 GitHub Stats & Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=muhammadkumail317&show_icons=true&hide_border=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=muhammadkumail317&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
     width="48%"
-    alt="GitHub Stats"
+    alt="Muhammad Kumail Noor GitHub Stats"
   >
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkumail317&layout=compact&hide_border=true&theme=tokyonight"
@@ -219,8 +219,29 @@
   <img
     src="https://streak-stats.demolab.com?user=muhammadkumail317&theme=tokyonight&hide_border=true"
     width="70%"
-    alt="GitHub Streak"
+    alt="GitHub Contribution Streak"
   >
+</p>
+
+---
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadkumail317&theme=tokyo-night&hide_border=true"
+    width="95%"
+    alt="GitHub Activity Graph"
+  >
+</p>
+
+<p align="center">
+  <a href="https://github.com/muhammadkumail317">
+    <img
+      src="https://img.shields.io/badge/View%20GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View GitHub Profile"
+    >
+  </a>
 </p>
 
 ---
