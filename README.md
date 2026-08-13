@@ -37,12 +37,6 @@
 - 📖 Continuously learning and improving my technical skills
 
 </td>
-
-<td width="45%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadkumail317&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" width="100%" alt="GitHub Stats">
-
-</td>
 </tr>
 </table>
 
