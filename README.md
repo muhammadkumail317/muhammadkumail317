@@ -176,24 +176,6 @@
 </p>
 
 ---
-
-### 🔗 Project Links
-
-<p align="center">
-
-  <a href="https://github.com/muhammadkumail317/student-performance-analytics-portal">
-    📂 <strong>View Repository</strong>
-  </a>
-
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-
-  <a href="https://muhammadkumail317.github.io/student-performance-analytics-portal/">
-    🌐 <strong>Live Demo</strong>
-  </a>
-
-</p>
-
----
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
@@ -202,15 +184,14 @@
     width="48%"
     alt="Muhammad Kumail Noor GitHub Stats"
   >
-
+</p>
   <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadkumail317&theme=tokyonight"
     width="48%"
     alt="Top Languages"
   >
-</p>
-</p>
+  </p>
 
 ---
 
@@ -311,6 +292,7 @@ I am particularly interested in building **modern, responsive, and user-friendly
   </a>
 </p>
 
+
 ---
 
 ## 🚀 Currently
@@ -323,6 +305,7 @@ I am particularly interested in building **modern, responsive, and user-friendly
   🎯 Preparing for Professional Opportunities
 </p>
 
+---
 ---
 
 <p align="center">
