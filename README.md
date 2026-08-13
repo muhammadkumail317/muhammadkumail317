@@ -237,21 +237,55 @@
 
 ## 🎓 Education
 
-### 🎓 BS Computer Science
+<table>
+<tr>
+<td width="20%" align="center">
+  🎓
+</td>
+
+<td width="80%">
+
+### BS Computer Science
 
 **Abdul Wali Khan University Mardan**
 
-- 📚 Currently in **7th Semester**
-- 🎯 Expected Graduation: **2027**
-- 💻 Academic Focus: **Computer Science and Web Development**
+📚 **Current Semester:** 7th Semester  
+🎯 **Expected Graduation:** 2027  
+💻 **Academic Focus:** Computer Science & Web Development
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎯 Career Goal
 
+<p align="center">
+  <strong>
+    🚀 Growing from a Computer Science student into a professional Web Developer.
+  </strong>
+</p>
+
 My goal is to grow as a professional web developer by working on real-world projects, gaining practical experience, and continuously improving my technical skills.
 
-I am particularly interested in building modern, responsive, and user-friendly web applications while learning new technologies and professional development practices.
+I am particularly interested in building **modern, responsive, and user-friendly web applications** while learning new technologies and professional development practices.
+
+### 🌱 What I'm Working Toward
+
+<table align="center">
+<tr>
+<td align="center">💻<br><strong>Professional Web Development</strong></td>
+<td align="center">🚀<br><strong>Real-World Experience</strong></td>
+<td align="center">📚<br><strong>Continuous Learning</strong></td>
+</tr>
+
+<tr>
+<td align="center">🌐<br><strong>Modern Web Apps</strong></td>
+<td align="center">🎨<br><strong>Better UI/UX</strong></td>
+<td align="center">🤝<br><strong>Team Collaboration</strong></td>
+</tr>
+</table>
 
 ---
 
