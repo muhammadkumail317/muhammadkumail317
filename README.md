@@ -204,22 +204,15 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=muhammadkumail317&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadkumail317&theme=tokyonight"
     width="48%"
     alt="Muhammad Kumail Noor GitHub Stats"
   >
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkumail317&layout=compact&hide_border=true&theme=tokyonight"
-    width="42%"
-    alt="Top Languages"
-  >
-</p>
 
-<p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=muhammadkumail317&theme=tokyonight&hide_border=true"
-    width="70%"
-    alt="GitHub Contribution Streak"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadkumail317&theme=tokyonight"
+    width="48%"
+    alt="Top Languages"
   >
 </p>
 
@@ -231,7 +224,7 @@
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadkumail317&theme=tokyo-night&hide_border=true"
     width="95%"
-    alt="GitHub Activity Graph"
+    alt="Muhammad Kumail Noor Contribution Graph"
   >
 </p>
 
