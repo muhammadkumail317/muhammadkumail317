@@ -209,11 +209,11 @@
     alt="Muhammad Kumail Noor GitHub Stats"
   >
 
-  <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadkumail317&theme=tokyonight"
-  width="48%"
-  alt="Top Languages"
->
+  <p align="center">
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadkumail317&theme=tokyonight)
+
+</p>
 </p>
 
 ---
